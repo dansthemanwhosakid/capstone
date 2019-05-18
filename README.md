@@ -1,2 +1,2 @@
-# capstone
-Movie Character Recommendation
+# capstone_goodness
+Capstone Project
